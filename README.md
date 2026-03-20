@@ -25,8 +25,8 @@ Train the model over multiple epochs by feeding noisy images as input and comput
  Evaluate the model and visualize results by comparing original, noisy, and denoised images side by side. 
 
 ## PROGRAM
-### Name: BHAVYASHREE R
-### Register Number: 212223110006
+### Name: Deepshika hemanth kumar
+### Register Number: 212224220020
 ```
 class DenoisingAutoencoder(nn.Module):
     def __init__(self):
